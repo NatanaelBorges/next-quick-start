@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<img src="https://res.cloudinary.com/duugdpulf/image/upload/v1633016013/quickstart_zb9djo.png" alt="Quick Start"  height="250"  width="450">
+<img src="https://res.cloudinary.com/duugdpulf/image/upload/v1633037461/quickstart_selwus.png" alt="Quick Start"  height="250"  width="450">
 <br><br>
 </h1>
 
