@@ -32,7 +32,7 @@ Besides, it's nice to have an editor to work with code like [VSCode](https://cod
 ```bash
 
 # Clone this repository
-$ npx create-next-app [project-name] --example https://github.com/NatanaelBorges/next-quick-start.git
+$ npx create-next-app [project-name] --example https://github.com/NatanaelBorges/next-quick-start
 
 # Access the project folder on your terminal/cmd
 $ cd [project-name]
