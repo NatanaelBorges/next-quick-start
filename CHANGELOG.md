@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/NatanaelBorges/next-quick-start/compare/v0.1.2...v0.1.3) (2022-07-08)
+
+
+### Chore
+
+* update date license ([7f187cb](https://github.com/NatanaelBorges/next-quick-start/commits/7f187cb2e3eb4d5d05283cc2209bfb7a6f402fa1))
+
+
+### Docs
+
+* add browsers support ([d9aace6](https://github.com/NatanaelBorges/next-quick-start/commits/d9aace66eccbe05b6eab86a90ff8d854a04a5401))
+* add lembrete ([b8bb44d](https://github.com/NatanaelBorges/next-quick-start/commits/b8bb44df8a1d63301b3272fc889e9945e1df1603))
+* create readme pt-BR ([67c215f](https://github.com/NatanaelBorges/next-quick-start/commits/67c215ffb922772cc9634505129ce653042c3c7b))
+* update readme ([4192dcd](https://github.com/NatanaelBorges/next-quick-start/commits/4192dcde1f3178cfbe70b13ad6bc474279e64b75))
+
 ### [0.1.2](https://github.com/NatanaelBorges/next-quick-start/compare/v0.1.1...v0.1.2) (2022-07-08)
 
 
