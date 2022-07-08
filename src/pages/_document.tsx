@@ -22,12 +22,12 @@ export default class MyDocument extends Document {
       const initialProps = await Document.getInitialProps(ctx);
       return {
         ...initialProps,
-        styles: (
+        styles: [
           <>
             {initialProps.styles}
             {sheet.getStyleElement()}
-          </>
-        ),
+          </>,
+        ],
       };
     } finally {
       sheet.seal();
@@ -39,6 +39,7 @@ export default class MyDocument extends Document {
       <Html lang="pt-BR">
         <Head />
         <body>
+          <noscript>You need to enable JavaScript to run this app.</noscript>
           <Main />
           <NextScript />
         </body>
