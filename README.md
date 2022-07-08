@@ -19,6 +19,15 @@ Use this app to help you get started and not have to do all the boring settings 
 - **<a href="#-development-stream">Development Stream</a>**
 - **<a href="#-license">License</a>**
 
+### 🖥 Browsers Support
+
+- Modern browsers and Internet Explorer 11
+- Server-side Rendering
+
+|<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" /> IE / Edge | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" /> Firefox | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" /> Chrome | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" /> Safari | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" /> Opera
+| --- | --- | --- | --- | --- |
+| IE11, Edge | last versions | last versions | last versions | last versions |
+
 ## 🏃‍♂️ Getting Started
 
 How to run the project
@@ -26,8 +35,13 @@ How to run the project
 ### Prerequisites
 
 Before starting, you will need to have the following tools installed on your machine:
-[Git](https://git-scm.com),
-[Node.js](https://nodejs.org/en/) (which comes with [npm](http://npmjs.com/)) .
+
+The project can be built with npm or yarn, so choose one of the approach bellow in case you don't have any installed on your system.
+
+- **Npm** is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/)
+
+- **Yarn** is a package manager built by Facebook Team and seems to be faster than npm in general.  [Download Yarn](https://yarnpkg.com/en/docs/install)
+
 Besides, it's nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/)
 
 #### 🧭 Running the web application (Frontend)
@@ -99,4 +113,4 @@ I like to use this command [npm outdated](https://docs.npmjs.com/cli/v7/commands
 
 This project is under the  [MIT license](https://github.com/NatanaelBorges/next-quick-start/blob/main/LICENSE).
 
-Made with ❤️  by ***Natanael Borges*** 👋🏽
+Made with ❤️ by ***Natanael Borges*** 👋🏽
