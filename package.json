@@ -13,7 +13,9 @@
     "deploy-static": "npm run build && npm run export",
     "lint": "eslint src --max-warnings=0",
     "lint-staged": "lint-staged",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version",
+    "commit": "cz"
   },
   "dependencies": {
     "@styled-icons/material-outlined": "^10.34.0",
@@ -38,6 +40,8 @@
     "@typescript-eslint/parser": "^5.21.0",
     "babel-loader": "^8.2.5",
     "babel-plugin-styled-components": "^2.0.7",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
@@ -48,6 +52,7 @@
     "jest-styled-components": "^7.0.8",
     "lint-staged": "^12.4.1",
     "prettier": "^2.6.2",
+    "standard-version": "^9.5.0",
     "typescript": "^4.6.3"
   },
   "lint-staged": {
@@ -55,5 +60,10 @@
       "npm run lint -- --fix",
       "npm test -- --findRelatedTests --bail"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
