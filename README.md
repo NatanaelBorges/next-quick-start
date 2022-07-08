@@ -1,8 +1,11 @@
+<div id="top"></div>
 <h1 align="center">
 <br>
 <img src="https://res.cloudinary.com/duugdpulf/image/upload/v1633037461/quickstart_selwus.png" alt="Quick Start"  height="250"  width="450">
 <br><br>
 </h1>
+
+English 🇺🇸 | [Português 🇧🇷](./README-pt_BR.md)
 
 ## 🔖  Overview
 
@@ -10,13 +13,13 @@ This is a minimal Next.js application based on the  [Quick Start Guide](https://
 
 Use this app to help you get started and not have to do all the boring settings and focus on what matters to code  😍
 
-- **<a href="#getting-started">Getting started</a>**
-- **<a href="#reminder">Reminder</a>**
-- **<a href="#technologies">Technologies</a>**
-- **<a href="#development-stream">Development Stream</a>**
-- **<a href="#license">License</a>**
+- **<a href="#%EF%B8%8F-getting-started">Getting started</a>**
+- **<a href="#-reminder">Reminder</a>**
+- **<a href="#-technologies">Technologies</a>**
+- **<a href="#-development-stream">Development Stream</a>**
+- **<a href="#-license">License</a>**
 
-## Getting Started
+## 🏃‍♂️ Getting Started
 
 How to run the project
 
@@ -49,25 +52,34 @@ $ npm run start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## Reminder
+<p align="right">(<a href="#top"> back to the top </a>)</p>
 
-Don't forget to change the ***project name*** in 👉 [package.json](https://github.com/NatanaelBorges/next-quick-start/blob/main/package.json) to *your project name*.
+## ⏰ Reminder
 
-## Technologies
+Don't forget to change the ***project name*** and ***version*** in 👉 [package.json](https://github.com/NatanaelBorges/next-quick-start/blob/main/package.json) to *your project name* and *you project version*.
+
+## 💾 Technologies
 
 The following tools were used in the construction of the project:
 
-#### **Frontend**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Frontend**  ([Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org/))
 
-- **[Next.js](https://nextjs.org)**
 - **[Styled-Components](https://styled-components.com/)**
 - **[Storybook](https://storybook.js.org/)**
 - **[Husky](https://www.npmjs.com/package/husky)**
 - **[Jest.js](https://jestjs.io/)**
+- **[Commitlint](https://commitlint.js.org/#/)**
+- **[babel.js](https://babeljs.io/)**
+- **[ESLint](https://eslint.org/)**
+- **[Prettier](https://prettier.io/)**
+- **[Commitizen](https://commitizen-tools.github.io/commitizen/)**
+- **[Standard-Version](https://github.com/conventional-changelog/standard-version)**
 
 > See the file  [package.json](https://github.com/NatanaelBorges/next-quick-start/blob/main/package.json)
 
-## Development Stream
+<p align="right">(<a href="#top"> back to the top </a>)</p>
+
+## 💻 Development Stream
 
 Before starting to develop update the libs, as it may be that there is a newer version.
 
@@ -81,7 +93,9 @@ I like to use this command [npm outdated](https://docs.npmjs.com/cli/v7/commands
 |npm test| execute the tests  |
 |npm run storybook  | execute the storybook |
 
-## License
+<p align="right">(<a href="#top"> back to the top </a>)</p>
+
+## 📝 License
 
 This project is under the  [MIT license](https://github.com/NatanaelBorges/next-quick-start/blob/main/LICENSE).
 
