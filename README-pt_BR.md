@@ -74,7 +74,7 @@ Observação: se você estiver usando o Linux Bash para Windows,  [veja este gui
 
 ## ⏰ Lembrete
 
-Don't forget to change the ***project name*** and ***version*** in 👉 [package.json](https://github.com/NatanaelBorges/next-quick-start/blob/main/package.json) to *your project name* and *you project version*.
+Não se esqueça de alterar o ***nome do projeto*** e a ***versão*** no 👉 [package.json](https://github.com/NatanaelBorges/next-quick-start/blob/main/package.json) para o *nome do projeto* e sua respectiva *versão*.
 
 ## 💾 Tecnologias
 
