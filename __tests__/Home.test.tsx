@@ -1,16 +1,16 @@
-import { render, screen } from "@testing-library/react";
-import Home from "@/app/page";
+import { render, screen } from '@testing-library/react';
+import Home from '@/app/page';
 
-describe("Home", () => {
-  it("should have Docs text", () => {
+describe('Home', () => {
+  it('should have Docs text', () => {
     render(<Home />);
 
-    const myElem = screen.getByText("Docs");
+    const myElem = screen.getByText('Docs');
 
     expect(myElem).toBeInTheDocument();
   });
 
-  it("should contain the text information", () => {
+  it('should contain the text information', () => {
     render(<Home />);
 
     const myElem = screen.getByText(/information/);
