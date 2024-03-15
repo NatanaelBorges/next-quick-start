@@ -5,6 +5,19 @@
 <br><br>
 </h1>
 
+<br>
+<p  align="center">
+<a  href="https://github.com/NatanaelBorges/next-quick-start/blob/main/CHANGELOG.md">
+<img  alt="package.json version"  src="https://img.shields.io/github/package-json/v/NatanaelBorges/next-quick-start">
+</a>
+<a  href="https://github.com/NatanaelBorges/next-quick-start/commits/main">
+<img  alt="GitHub last commit"  src="https://img.shields.io/github/last-commit/NatanaelBorges/next-quick-start">
+</a>
+  <a  href="https://github.com/NatanaelBorges/next-quick-start/blob/main/LICENSE">
+<img  alt="GitHub"  src="https://img.shields.io/github/license/NatanaelBorges/next-quick-start"  alt="next-quick-start is released under the MIT license.">
+</a>
+</p>
+
 🇺🇸 English | [🇧🇷 Português](./README-pt_BR.md)
 
 ## 🔖 Overview
